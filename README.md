@@ -38,7 +38,7 @@ sih_dr_project/
 
 ---
 
-## 🚀 How to Run in VS Code
+## 🚀How to run this
 
 ### 1. Start the Flask Backend
 
